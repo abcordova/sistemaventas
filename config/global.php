@@ -6,12 +6,12 @@ define("DB_HOST", "localhost");
 define("DB_NAME", "dbsistemaventas");
 
 //Usuario de la base de datos
-define("DB_USER", "root");
+define("DB_USERNAME", "root");
 
 //Contraseña del usuatio de la base de datos
 define("DB_PASSWORD", "");
 
-//Definimos la codificación de los caracteres
+//Definimos la codificación de los scaracteres
 define("DB_ENCODE", "utf8");
 
 //Definimos una constante como nombre del proyecto
